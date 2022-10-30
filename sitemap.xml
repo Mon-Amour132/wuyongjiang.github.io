@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://wuyongjiang13.github.io/2022/10/30/22-24-52/</loc>
+    
+    <lastmod>2022-10-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://wuyongjiang13.github.io/2022/10/29/16-24-52/</loc>
     
     <lastmod>2022-10-29</lastmod>
@@ -22,15 +31,22 @@
 
   <url>
     <loc>https://wuyongjiang13.github.io/</loc>
-    <lastmod>2022-10-29</lastmod>
+    <lastmod>2022-10-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>https://wuyongjiang13.github.io/tags/Spring%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/</loc>
+    <lastmod>2022-10-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://wuyongjiang13.github.io/tags/%E5%B7%A5%E5%85%B7%E7%B1%BB/</loc>
-    <lastmod>2022-10-29</lastmod>
+    <lastmod>2022-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
